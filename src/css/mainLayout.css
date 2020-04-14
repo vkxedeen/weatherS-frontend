@@ -1,0 +1,25 @@
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.ant-layout {
+    min-width: 500px
+}
+
+.site-layout-background.header {
+    display:flex;
+    justify-content: flex-end;
+    padding-right: 16px;
+}

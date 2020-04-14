@@ -1,0 +1,19 @@
+.header {
+    color: red
+}
+
+.balloon-body {
+    padding-left: 20px;
+}
+
+.map {
+    border-radius: 4px;
+    overflow: hidden;
+    width: 100%;
+    height: 300px;
+    margin: auto;
+}
+
+ymaps [title] {
+    display: none
+}
